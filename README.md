@@ -12,11 +12,6 @@ Foi desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, re
 
 
 
-<br>
-
-<h1 align="center">
-    <img alt="Happy" title="Happy" src="public/images/logo.svg" />     
-</h1>
 
 ##  Tecnologias  🚀 🚀 🚀
 
@@ -32,9 +27,13 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 
 
-
-
 ![screenshot](./public/images/gif1.gif?raw=true "screenshot")
+
+<br>
+
+<h1 align="center">
+    <img alt="Happy" title="Happy" src="public/images/logo.svg" />     
+</h1>
 
 ## Layout
 
