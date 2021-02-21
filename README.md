@@ -1,9 +1,12 @@
 <h1 align="center">
-    <img alt="Happy" title="Happy" src=".github/logo.svg" />
+    <img alt="Happy" title="Happy" src="public/images/logo.svg" />     
 </h1>
 
 
-## 💻 Projeto HAPPY - NLW
+   # HAPPY     
+
+
+### 💻 Projeto 
 
 O Happy é um projeto que visa facilitar visitas aos orfanatos próximos a você.
 
@@ -13,9 +16,9 @@ Foi desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, re
 
 <br>
 
-<p align="center">
-  <img alt="Happy" src=".github/happy.png" width="100%">
-</p>
+<h1 align="center">
+    <img alt="Happy" title="Happy" src="public/images/logo.svg" />     
+</h1>
 
 ##  Tecnologias  🚀 🚀 🚀
 
@@ -46,6 +49,4 @@ Você pode visualizar o layout do projeto através dos links abaixo:
 
 É necessário ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
-## 📝 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
